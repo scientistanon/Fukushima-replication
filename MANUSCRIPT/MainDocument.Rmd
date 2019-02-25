@@ -1,35 +1,8 @@
 ---
-title: Evacuees and Migrants Exhibit Different Migration Systems after the Great East Japan Earthquake and Tsunami
-
-# to produce blinded version set to 1
-blinded: 0
-
-authors: 
-
-keywords:
-- Great East Japan Earthquake
-- Migration Systems
-- Fukushima
-- Hurricane Katrina
-- Displacement
-abstract: |
-  Research on the destinations of environmentally induced migrants has found simultaneous migration to both nearby and long-distance destinations, most likely caused by the co-mingling of evacuee and permanent migrant data. Using a unique dataset of separate evacuee and migration destinations, we compare and contrast the pre-- (2010), peri-- (2011), and post-- (2012-2013) migration systems of permanent migrants and temporary evacuees of the Great East Japan Earthquake and Tsunami. We construct and compare prefecture-to-prefecture migration matrices for Japanese prefectures to investigate the similarity of migration systems. We find evidence supporting the presence of two separate migration systems -- one for evacuees and one for more permanent migrants -- where evacuees seem to emphasize short distance migration while more permanent migrants emphasize migration to destinations with pre-existing ties. Additionally, our results show that permanent migration in the peri-- and post-periods is largely identical to the pre-existing migration system. Our results demonstrate stability in migration systems concerning migration after a major environmental event.
+title: "Evacuees and Migrants Exhibit Different Migration Systems after the Great East Japan Earthquake and Tsunami"
+date: 2015-02-25
+output: html_document
 bibliography: bibliography.bib
-output: rticles::asa_article
-header-includes:
-- \usepackage{booktabs}
-- \usepackage{longtable}
-- \usepackage{array}
-- \usepackage{multirow}
-- \usepackage{wrapfig}
-- \usepackage{float}
-- \usepackage{colortbl}
-- \usepackage{pdflscape}
-- \usepackage{tabu}
-- \usepackage{threeparttable}
-- \usepackage{threeparttablex}
-- \usepackage[normalem]{ulem}
-- \usepackage{makecell}
 ---
 
 
